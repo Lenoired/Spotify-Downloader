@@ -55,7 +55,4 @@ elif argv[1].find('/playlist/')>0:
       ths = []
 
 
-print("Done!")
-
-
 
